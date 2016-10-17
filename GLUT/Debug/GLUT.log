@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\gamelab\cg1\q3\reflection example\glut\glut\main.cpp(14): warning C4244: '=': 將 'int' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+d:\gamelab\cg1\q3\reflection example\glut\glut\main.cpp(27): warning C4244: '引數': 將 'const double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+d:\gamelab\cg1\q3\reflection example\glut\glut\main.cpp(68): warning C4244: '引數': 將 'const double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+d:\gamelab\cg1\q3\reflection example\glut\glut\main.cpp(77): warning C4244: '引數': 將 'const double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+d:\gamelab\cg1\q3\reflection example\glut\glut\main.cpp(86): warning C4244: '引數': 將 'const double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+d:\gamelab\cg1\q3\reflection example\glut\glut\main.cpp(95): warning C4244: '引數': 將 'const double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+d:\gamelab\cg1\q3\reflection example\glut\glut\main.cpp(104): warning C4244: '引數': 將 'const double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+d:\gamelab\cg1\q3\reflection example\glut\glut\main.cpp(119): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+  GLUT.vcxproj -> D:\GameLab\CG1\Q3\Reflection Example\GLUT\Debug\GLUT.exe
